@@ -4,7 +4,7 @@ This project involves creating a SQL database for an automated system designed t
 
 ---
 
-## 💻 Team Members:
+## 📚 Team Members:
 - @Fatma Elshihna  
 - @Safia Kamal  
 - @Salem Gamal  
