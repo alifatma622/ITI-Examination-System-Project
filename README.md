@@ -1,15 +1,17 @@
- Excited to Share Our New Project Examination Management System! 
+👨🏻‍💻Examination System
+This project involves creating a SQL database for an automated system designed to facilitate online exams. The system incorporates stored procedures to enable selecting, inserting, updating, and deleting data across all tables.
 
+💻Team Members:
+@Fatma Ali
+@Safia Kamal
+@Salem Gamal
+@Mostafa Hela
 
-
-We’ve successfully developed a simulation   Examination Management System of ITI using Microsoft SQL Server to streamline exam processes, track student performance, and manage course-related activities. 
-
-
+🛠Dependences:
+MS SQL Server.
+MS Report Builder.
 
 🔍Project Overview:
-
-
-
 Our system is platform designed for educational institutions, enabling:
 Students: To take exams, track progress, and view results.
 Instructors: To create, manage, and assign exams effortlessly.
@@ -56,9 +58,6 @@ Instantly evaluate answers and determine pass/fail status.
 Link courses to tracks and instructors for seamless management.
 
 
-
-
-
 Technical Highlights
 
 💻 Relational Database Structure:
@@ -73,6 +72,8 @@ Technical Highlights
 
 🔄 Backups: daily backups for data security.
 
+📝Entity Relationship Diagram
 
+![IMG-20250102-WA0031](https://github.com/user-attachments/assets/60898ffa-8ca5-4aa9-bb1d-b056373ea763)
+![IMG-20250102-WA0030](https://github.com/user-attachments/assets/96c322bf-0492-4df2-8baa-e2317b73a8a4)
 
-This project was a fantastic opportunity to combine technical skills with real-world challenges, resulting in a system that’s efficient, secure, and scalable.
