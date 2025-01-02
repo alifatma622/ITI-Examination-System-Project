@@ -29,8 +29,7 @@ Our system is designed for educational institutions, enabling:
 - **Instructors**  
 - **Students**  
 - **Courses**  
-- **Branches**  
-- **Intakes**  
+- **Branches**   
 - **Tracks**  
 - **Questions**  
 
