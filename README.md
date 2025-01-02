@@ -1,4 +1,4 @@
-# 👨🏻‍💻 ITI Examination System
+# 🎯 ITI Examination System Project
 
 This project involves creating a SQL database for an automated system designed to facilitate online exams. The system incorporates stored procedures to enable selecting, inserting, updating, and deleting data across all tables.
 
@@ -12,11 +12,6 @@ This project involves creating a SQL database for an automated system designed t
 
 ---
 
-## 🛠 Dependencies:
-- **MS SQL Server**  
-- **MS Report Builder**  
-
----
 
 ## 🔍 Project Overview:
 Our system is designed for educational institutions, enabling:  
@@ -65,7 +60,10 @@ Our system is designed for educational institutions, enabling:
 
 ### 🔄 Backups:
 - Daily backups for data security.  
-
+---
+## 🛠 Prerequisites :
+- **MS SQL Server**  
+- **MS Report Builder**  
 ---
 
 ## 📝 Entity Relationship Diagram:
